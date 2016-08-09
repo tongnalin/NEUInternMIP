@@ -1,0 +1,7 @@
+*.png
+*.exe
+*.obj
+*.bmp
+*.suo
+MIP/bin/
+MIP/obj/
