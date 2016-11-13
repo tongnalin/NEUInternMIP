@@ -106,6 +106,7 @@ namespace MIP
         private void closeAllToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.CTBoxList.Clear();
+            this.panel2.Controls.Clear();
             GenerateLayout();
         }
 
